@@ -1,0 +1,19 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  width: 50px;
+}
+
+.label {
+  font-size: 14px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.percentage {
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+}
