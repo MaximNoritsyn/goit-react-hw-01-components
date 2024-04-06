@@ -1,0 +1,24 @@
+.table {
+  width: 400px;
+  border-collapse: collapse;
+  font-size: 16px;
+}
+
+.table th,
+.table td {
+  padding: 10px;
+  text-align: center;
+}
+
+.table th {
+  background-color: #28d2ec;
+  color: white;
+  border: 1px solid white;
+}
+
+.table td {
+  border: 1px solid #28d2ec;
+  padding: 10px;
+  color: #4b4b4bb9;
+  font-weight: 500;
+}
